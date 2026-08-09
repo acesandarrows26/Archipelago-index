@@ -1,5 +1,0 @@
-name = "Manual_Splatoon3_acesandarrows26"
-display_name = "Manual: Splatoon 3 Ranked"
-
-[versions]
-"0.0.1" = {url = "https://github.com/acesandarrows26/aces-manuals/releases/download/v0.0.1/manual_splatoon3_acesandarrows26.apworld"}
